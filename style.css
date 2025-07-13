@@ -134,7 +134,7 @@ body {
 
 /* 頁面 */
 .header {
-    background-image: url(/img/hero.png);
+    background-image: url(img/hero.png);
     background-repeat: no-repeat;
     background-size:cover;
     background-position:center;
